@@ -1,2 +1,2 @@
-# Bypassing_MAC_adress_authentificatiob
+# Bypassing_MAC_adress_authentification
 Ethical Hacking - BYPASS MAC AUTHENTIFICATION
