@@ -19,3 +19,9 @@ ifconfig wlan0 down
 ```bash
 ifconfig wlan0 | grep HW
 ```
+
+Change mac address
+
+```bash
+ifconfig wlan0 hw ether cc:3d:82:a9:4a:52
+```
