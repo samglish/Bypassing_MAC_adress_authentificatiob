@@ -7,3 +7,11 @@ Ethical Hacking - BYPASS MAC AUTHENTIFICATION
 * usually appears as 00:50:56:CD:00:01
 * physical address
 * use to identify users
+
+```bash
+iwconfig
+```
+
+```bash
+iwconfig wlan0 down
+```
