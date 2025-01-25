@@ -13,5 +13,5 @@ iwconfig
 ```
 
 ```bash
-iwconfig wlan0 down
+ifconfig wlan0 down
 ```
