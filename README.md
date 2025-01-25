@@ -17,5 +17,5 @@ ifconfig wlan0 down
 ```
 
 ```bash
-ifconfig wlan0 | grep W
+ifconfig wlan0 | grep HW
 ```
