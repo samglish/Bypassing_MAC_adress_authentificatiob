@@ -6,3 +6,4 @@ Ethical Hacking - BYPASS MAC AUTHENTIFICATION
 * six pairs in hexadecimal (0 to 9 letters between A and F)
 * usually appears as 00:50:56:CD:00:01
 * physical address
+* use to identify users
