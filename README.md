@@ -15,3 +15,7 @@ iwconfig
 ```bash
 ifconfig wlan0 down
 ```
+
+```bash
+ifconfig wlan0 | grep W
+```
